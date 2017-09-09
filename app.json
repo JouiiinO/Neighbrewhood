@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "name": "Neighbrewhood",
+    "slug": "neighbrewhood",
+    "version": "1.0.0",
+    "icon": "./assets/icon.png",
+    "loading": {
+        "icon": "./assets/icon_small.png",
+        "backgroundColor": "#8DC932"
+    },
+    "ios": {
+        "bundleIdentifier": "com.julienjounieau.neighbrewhood",
+    },
+  }
+}
